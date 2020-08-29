@@ -21,7 +21,7 @@ Cependant, à la tout fin, on retrouve encore un objet, mais cette foi-ci c'est 
 Même procédure que dans l'épisode 1 pour extraire le fichier.
 Pour dézipper le fichier, il faut un mot de passe.
 
-Il se trouve qu'en explorant les objets http, on tombe sur un fichier `secret.txt` qui contient le mot de passe
+Il se trouve qu'en explorant les objets http, on tombe sur un fichier `secret.txt` qui contient le mot de passe de cette archive.
 
 <pre>\__    _/(  ___  )\__   __/( (    /|       (  ____ \(  ____ \( (    /||\     /|(  ___  )(  ____ \| \    /\
    )  (  | (   ) |   ) (   |  \  ( |       | (    \/| (    \/|  \  ( || )   ( || (   ) || (    \/|  \  / /
@@ -36,4 +36,3 @@ ou JOIN-ESNHACK
 </pre>
 
 Dans l'archive, le flag est en clair dans une image, encore une fois.
-
