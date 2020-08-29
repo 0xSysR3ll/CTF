@@ -1,5 +1,5 @@
 Dans ce challenge, il s'agit de trouver un `secret` caché par un dénommé Elliot.
-On attéri sur un site web fait uniquement en html. On écarte alors tout de suite les attaques CRSS, XSX, CRSF, etc.
+On attéri sur un site web fait uniquement en html. On écarte alors tout de suite les attaques CRSS, XSS, CRSF, etc.
 Je pense qu'on chercher plutôt un fichier ou répertoire caché car il y a beacoup trop de contenu/liens. Autant chercher une aiguille dans une bôte de foin...
 
 Comme tout bon pirate, j'utilise `dirbuster` pour balayer tous les répertoire du site.
