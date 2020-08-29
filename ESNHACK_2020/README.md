@@ -9,6 +9,7 @@ Elle était composée de challenges de :
 - Programmantion
 - Web
 - Système
+- Misc
 
 Dans une équipe de 4, j'ai validé 10 flags (soit 4350 points) et aidé mes coéquipiers pour les autres.
 
