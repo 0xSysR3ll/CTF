@@ -1,4 +1,4 @@
-Encore un catégorie que je n'avais pas réellement exploré.
+Encore une catégorie que je n'avais pas réellement exploré.
 Nous avons à disposition un fichier `.apk`.
 
 Ayant déjà fait un peu d'Android, je devine avec le titre que le flag est en relation avec le fichier `AndroidManifest.xml` contenu à la racine du fichier.
