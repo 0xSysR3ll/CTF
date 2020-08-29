@@ -1,4 +1,4 @@
-<p align="center"><img src="https://esnhack.fr/img/intro-bg.jpg" alt="Logo ESNHACK"/></p>
+<p align="center"><img src="https://esnhack.fr/img/intro-bg.jpg" alt="Logo ESNHACK" href="https://esnhack.fr/"/></p>
 
 
 Cette première édition de l'<a href="https://esnhack.fr/">ESN'HACK<a> a eu lieu le 28 août 2020 de 20h à 2h.
