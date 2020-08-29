@@ -32,7 +32,6 @@ Il se trouve qu'en explorant les objets http, on tombe sur un fichier `secret.tx
 (____/   (_______)\_______/|/    )_)       (_______/\_______)|/    )_)|/     \||/     \|(_______/|_/    \/
 
 ou JOIN-ESNHACK
-
 </pre>
 
 Dans l'archive, le flag est en clair dans une image, encore une fois.
