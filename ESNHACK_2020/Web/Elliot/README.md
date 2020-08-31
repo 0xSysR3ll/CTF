@@ -7,6 +7,9 @@ Après quelques minutes, je tombe sur un fichier `secret/secret.zip`.
 Evidemment, cela aurait été trop facile de dézipper cette archive sans qu'elle soit protégée par un mot de passe.
 
 Encore une fois, il me semblait peut probable que le mot de passe soit caché sur le site, je décide donc d'utiliser `fcrackzip` avec le dictionnaire `rockyou.txt` pour faire un bruteforce du mot de passe.
+
+<pre>fcrackzip secret.zip -D -p rockyou.txt -u</pre>
+
 Après quelques secondes seulement, le mot de passe tombe.
 
 L'achive dézippée, le mot de passe n'apparaît évidemment pas en clair, trop facile !
