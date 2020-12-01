@@ -41,7 +41,7 @@ L'image extraite semble juste être un fond blanc; mais en stéga, une image cac
 
 Un petit coup de stegsolve pour appliquer des filtres sur l'image et hop le mot de passe `S0M3_FFF` !
 
-![img](https://github.com/0xSysR3ll/CTF/blob/master/HeroCTF/Steganography/Promenade_binaire/password.png)
+![img](https://github.com/0xSysR3ll/CTF/blob/master/HeroCTF_v2/Steganography/Promenade_binaire/password.png)
 
 On peut maintenant dézippper l'archive.
 Le fameux fichier `pizza.html` réapparaît mais cette fois-ci complet.
