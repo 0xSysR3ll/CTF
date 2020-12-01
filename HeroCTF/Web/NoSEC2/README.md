@@ -44,4 +44,4 @@ for _ in range(32):
             print("Flag : Hero{"+passwd+"}")
 ```
 
-Flag : Hero{5d41402abc4b2a76b9719d911017c592}
+Flag : `Hero{5d41402abc4b2a76b9719d911017c592}`
