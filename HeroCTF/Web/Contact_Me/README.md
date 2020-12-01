@@ -1,11 +1,11 @@
-<h1>Contact Me !</h1>
+# Contact Me !
 
-<h3>Description :</h3>
+### Description
 Un petit développeur a mis en place un serveur où vous pouvez le contacter.
 Malheureusement, une des pages n'est pas accessible, et j'ai vraiment envie de savoir ce qu'elle cache... Vous pouvez le faire pour moi ?
 <br/>
 
-<h3>Solution</h3>
+### Solution
 Quand on voit le titre du challenge, on imagine assez facilement qu'il va falloir effectuer une attaque de type XSS pour pouvoir avoir accès à la page secrête.
 En allant sur la page, elle revoie : <b>This page is PRIVATE!</b>
 
