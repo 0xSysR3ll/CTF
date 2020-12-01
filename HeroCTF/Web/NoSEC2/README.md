@@ -8,7 +8,7 @@ Format: Hero{motdepasse}
 
 ### Solution 
 
-Deuxième niveau du challenge [NoSEC #1](https://github.com/0xSysR3ll/CTF/edit/master/HeroCTF/Web/NoSEC1/README.md)
+Deuxième niveau du challenge [NoSEC #1](https://github.com/0xSysR3ll/CTF/tree/master/HeroCTF/Web/NoSEC1)
 
 Nous sommes toujours sur une injection NoSQL, le principe reste basiquement le même mais cette fois-ci il va falloir `bruteforcer` le mot de passe.
 
