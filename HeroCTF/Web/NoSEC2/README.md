@@ -8,7 +8,7 @@ Format: Hero{motdepasse}
 
 ### Solution 
 
-Deuxième niveau du challenge [NoSEC #1]()
+Deuxième niveau du challenge [NoSEC #1](https://github.com/0xSysR3ll/CTF/edit/master/HeroCTF/Web/NoSEC1/README.md)
 
 Nous sommes toujours sur une injection NoSQL, le principe reste basiquement le même mais cette fois-ci il va falloir `bruteforcer` le mot de passe.
 
@@ -16,7 +16,7 @@ La payload du niveau 1 consistait à envoyer : `{"username": "admin", "password"
 
 Ici, il va falloit donc falloir faire un attaque du type `Blind NoSQL` en utilisant les regex.
 
-On teste en envoyant : {"username": {"$eq": "admin"}, "password": {"$regex": "" }}
+On teste en envoyant : `{"username": {"$eq": "admin"}, "password": {"$regex": "" }}`
 
 On est bien authentifié.
 
