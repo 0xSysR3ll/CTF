@@ -10,7 +10,7 @@ Format: Hero{nombre}
 On dispose d'une image png qui contient des pixels de plusieurs couleurs. 
 Le but est de compter tous les pixels noirs.
 
-![img](https://github.com/0xSysR3ll/CTF/blob/master/HeroCTF/Algo/Pixels/image.png)
+![img](https://github.com/0xSysR3ll/CTF/blob/master/HeroCTF_v2/Algo/Pixels/image.png)
 
 Evidemment cela ne se fait pas à la main; donc voici mon script ultra compact utilisant le module `cv2`.
 
