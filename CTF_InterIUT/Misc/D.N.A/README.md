@@ -8,7 +8,7 @@ In this challenge we have to go on this page `http://interiutwzsx3dvp.onion`
 
 Because I don't want't to use TOR proxy, I will use the extension `.ws` which allow us to visit `.onion` website without proxy.
 
-Tha page says :
+The page says :
 >  We'll start this journey by checking that you're not a Sentinel. POST a request to the /challenge URL and decode the secret language. You must return the unleeted value with the key "payload".
 ```bash 
 curl -X POST -H 'Content-Type: application/json' --data '{"token": "df1cb36f2cf37abd4c74e454ceac07605fec600e68f2fa3895cb6fac06a23154", "payload": "unleeted_text"}' this.server/challenge
