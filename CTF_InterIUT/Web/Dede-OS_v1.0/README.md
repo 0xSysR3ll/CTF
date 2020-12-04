@@ -19,7 +19,7 @@ For that, I have referred to this cheat sheet : https://github.com/payloadbox/co
 As the command behind seems to be `ping <address>`, if we put a `;` we will be able to execute another command. We can also us `||` because if a command is not working it will execute the one after.
 
 ```bash
-$;ls -la;
+$ ;ls -la;
 
 Result from attack :
 
