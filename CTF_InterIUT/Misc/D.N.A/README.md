@@ -1,7 +1,3 @@
----
-title: "D.N.A"
-document: pdf_document
----
 # D.N.A
 
 ### Description
@@ -45,7 +41,7 @@ def leetTranslate(text, before=None):
     'u2014':'-',
     '\\':''
     }
-    #remplacement des lettres
+    #unleet function
     if not text: return text
     before = before or str.lower
     t = before(text)
