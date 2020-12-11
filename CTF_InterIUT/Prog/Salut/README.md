@@ -117,8 +117,10 @@ while True:
     #Reinitialising decoded text
     decoded = ""
 
-    #Get flag
+    #Increase base
     base += 1
+    #Get flag
+    
     if "H2G2" in data:
         print("[+] Flag = "+data)
         exit()
