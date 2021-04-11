@@ -2,6 +2,8 @@
 
 ## Description
 
+> La NASA vient de recevoir les premières images de son nouveau rover marsien Perseverance Depuis quelques heures, le Command Control aurait des problèmes pour  envoyer les instructions au rover... Selon eux, le vent martien  brouillerait les communications avec le rover. En tant que fin connaisseur, vous sentez que quelque chose cloche, mais quoi... Votre but est de trouver ce détail et de prévenir la NASA au plus vite. Bonne chance citoyenne, citoyen !
+
 File : `perseverance.gif`
 
 At first sight, nothing interesting when looking at the `gif`. But as always, nothing better than a `binwalk` to explore the image more deeply.

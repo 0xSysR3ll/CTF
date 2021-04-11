@@ -2,6 +2,8 @@
 
 ## Description
 
+> Lors d'une partie de Ping-Pong, un échange a été disputé avec beaucoup d'intensité. Essayez de comprendre pourquoi :)
+
 File : `Endianness.pcapng`
 
 After opening the file with Wireshark it seems that we have to do an ICMP payload exfiltration.
